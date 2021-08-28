@@ -1,0 +1,46 @@
+.aboutsection {
+  background-color: #2a2a2a;
+  padding: 30px;
+}
+
+.about {
+  padding: 25px;
+  color: #8a8a8a;
+  /* font-weight: bold; */
+  text-align: center;
+  font-size: large;
+  line-height: 1.8;
+  /* border: solid 5px white; */
+  /* border-radius: 30px; */
+}
+
+.myph {
+  height: 250px;
+  width: 250px;
+  border: solid 3px white;
+  border-radius: 50%;
+}
+
+/* .myph:hover {
+  height: 270px;
+  width: 260px;
+} */
+
+.myphContainer {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+}
+
+.mail {
+  line-height: 3.2;
+}
+
+.highlights {
+  color: #ffffd2;
+  font-weight: bold;
+  font-size: large;
+}

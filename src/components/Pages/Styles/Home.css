@@ -1,4 +1,4 @@
-/* .App {
+.App {
   height: 100vh;
   background-size: cover;
   background-repeat: no-repeat;
@@ -28,7 +28,6 @@
 }
 
 .drop {
-  color: white;
   padding: 20px;
   display: flex;
   flex-direction: column;
@@ -37,7 +36,17 @@
   box-sizing: border-box;
   width: 100%;
   bottom: 0;
+  justify-content: center;
+}
+.drop-content {
   font-weight: bold;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.link {
+  text-decoration: none;
 }
 
 .arrow {
@@ -51,24 +60,14 @@
   .naming {
     justify-content: center;
   }
-  .logo {
+  /* .logo {
     color: #800000;
-  }
-  .drop {
+    /* font-family: "Bradely Hand", cursive; */
+  /* font-size: 30px; */
+  /* font-weight: 700; */
+  /* } */
+  .drop-content {
     color: #800000;
     font-weight: bold;
   }
 }
-
-/* .arrow {
-  border: solid white;
-  border-width: 0 3px 3px 0;
-  display: inline-block;
-  padding: 3px;
-  cursor: pointer;
-}
-
-.down {
-  transform: rotate(45deg);
-  -webkit-transform: rotate(45deg);
-} */

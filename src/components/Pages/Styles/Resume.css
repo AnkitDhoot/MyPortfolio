@@ -1,0 +1,97 @@
+.resume {
+  background-color: #2a2a2a;
+  padding: 30px;
+}
+.name {
+  color: #cacaca;
+  font-size: 25px;
+}
+.mobile {
+  color: #8a8a8a;
+}
+.address {
+  color: #8a8a8a;
+}
+.resume-email {
+  color: #778899;
+}
+.resume-heading {
+  color: #ad6684;
+  padding-top: 10px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.objective {
+  color: #8a8a8a;
+}
+.course {
+  color: #778899;
+  font-weight: bold;
+}
+.span {
+  color: #8a8a8a;
+}
+.institution {
+  color: #8a8a8a;
+}
+.mark-type {
+  color: #8a8a8a;
+}
+.project-name {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  font-weight: bold;
+  color: #778899;
+}
+
+.project-name::after {
+  content: "|";
+  margin: 0 5px;
+}
+.project-span {
+  color: #8a8a8a;
+  font-weight: 500;
+  margin: 3px 0;
+}
+
+.project-url {
+  /* font-size: 18px; */
+  text-transform: lowercase;
+  display: inline-block;
+}
+
+.project-url a {
+  color: #cacaca;
+  text-decoration: none;
+}
+.project-url a:hover {
+  color: #b3a577;
+}
+
+.project-button {
+  display: none;
+}
+.project-description {
+  color: #8a8a8a;
+}
+.skillset {
+  color: #8a8a8a;
+  font-weight: bold;
+}
+.certificate-name {
+  color: #778899;
+  font-weight: bold;
+}
+.certificate-date {
+  color: #8a8a8a;
+  font-weight: bold;
+}
+.certificate-description {
+  color: #8a8a8a;
+}
+.certificate-issuer {
+  color: #8a8a8a;
+  font-weight: bold;
+}

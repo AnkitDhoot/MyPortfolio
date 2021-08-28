@@ -1,0 +1,131 @@
+{
+  "personal_details": {
+    "name": "Ankit Dhoot",
+    "address": "Badi pol, Near Gopal Mandir, Masuda, Ajmer",
+    "mobile": "9462760775",
+    "email": "ankitdhoot.70@gmail.com"
+  },
+  "objectives": [
+    "To secure a challenging position in a reputable organization to expand my knowledge and skills.",
+    "To use my skills for the betterment of company and myself."
+  ],
+  "education": [
+    {
+      "status": "pursuing",
+      "course": "B.Tech (Computer Engineering)",
+      "span": "2018-22",
+      "institution": "Poornima University, Jaipur",
+      "marks": [
+        {
+          "mark": "8.2",
+          "type": "SGPA (Agg.)",
+          "class": ""
+        }
+      ]
+    },
+    {
+      "status": "completed",
+      "course": "XII (Senior Secondary) | Maths-Science",
+      "span": "2017-18",
+      "institution": "RBSE Board (DDGS, Kota) ",
+      "marks": [
+        {
+          "mark": "62.60",
+          "type": "Percentage"
+        }
+      ]
+    },
+    {
+      "status": "completed",
+      "course": "X (Secondary)",
+      "span": "2015-16",
+      "institution": "RBSE Board (HKH Public School, Ajmer) ",
+      "marks": [
+        {
+          "mark": "78.83",
+          "type": "Percentage"
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Torq (quiz website)",
+      "span": "Feb 2021",
+      "url": "https://torq.netlify.app/",
+      "description": "I made this whole quiz website using HTML,CSS (SCSS),Bootstrap, JavaScript, JSON and deployed it using Netlify.",
+      "technologies": [
+        {
+          "name": "html5",
+          "type": "markup",
+          "end": "front-end"
+        },
+        {
+          "name": "css",
+          "type": "stylesheet",
+          "end": "front-end"
+        },
+        {
+          "name": "bootstrap",
+          "type": "css framework",
+          "end": "front-end"
+        },
+        {
+          "name": "javascript",
+          "type": "programming language",
+          "end": "front-end"
+        }
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML5",
+      "level": "Intermediate",
+      "mark": "70"
+    },
+    {
+      "name": "CSS (SASS)",
+      "level": "Intermediate",
+      "mark": "70"
+    },
+    {
+      "name": "Bootstrap",
+      "level": "Beginner",
+      "mark": "70"
+    },
+    {
+      "name": "JSON",
+      "level": "Beginner",
+      "mark": "60"
+    },
+    {
+      "name": "Javascript",
+      "level": "Beginner",
+      "mark": "50"
+    },
+    {
+      "name": "ReactJS",
+      "level": "Beginner",
+      "mark": "50"
+    },
+    {
+      "name": "C Language",
+      "level": "Beginner",
+      "mark": "40"
+    },
+    {
+      "name": "MySQL",
+      "level": "Beginner",
+      "mark": "40"
+    }
+  ],
+  "certificates": [
+    {
+      "certificate": "Solo Learn Certificates of HTML, CSS & JavaScript",
+      "date": "November,2020",
+      "issuer": "Solo Learn Org.",
+      "description": "Received Certificate Of clearing exams of HTML, CSS & JavaScript."
+    }
+  ]
+}

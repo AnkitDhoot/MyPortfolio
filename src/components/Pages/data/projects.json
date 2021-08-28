@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Torq",
+    "project_desktop_image": "https://i.imgur.com/3hPPOQ0.png",
+    "project_mobile_image": "https://i.imgur.com/aBUTQYt.png",
+    "span": "Feb 2021",
+    "url": "https://torq.netlify.app/",
+    "description": "I made this whole quiz website using HTML,CSS (SASS),Bootstrap, JavaScript, JSON and deployed it using Netlify.",
+    "technologies": [
+      {
+        "name": "HTML5",
+        "type": "markup",
+        "end": "front-end"
+      },
+      {
+        "name": "SASS",
+        "type": "stylesheet",
+        "end": "front-end"
+      },
+      {
+        "name": "Bootstrap",
+        "type": "css framework",
+        "end": "front-end"
+      },
+      {
+        "name": "JavaScript",
+        "type": "programming language",
+        "end": "front-end"
+      }
+    ]
+  }
+]
